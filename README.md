@@ -6,5 +6,5 @@
 👑  Właściciel:
         → Giercraft.pl (W budowie)
 
-🛠️  TestHelper:
+🛠️  Helper:
         → brickmc.pl
