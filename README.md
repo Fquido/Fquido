@@ -1,10 +1,9 @@
+Fquido -  INFO                                   —⠀❐⠀⤬
+
 🙋‍♂️ Hey, im Fquido
 
-👑  Właściciel:
-        → FquidoDev.pl (W budowie)
+👑 Owner: → FquidoDev.pl (building)
 
-👑  Właściciel:
-        → Giercraft.pl (W budowie)
+👑 Owner: → Giercraft.pl (building)
 
-🛠️  Helper:
-        → brickmc.pl
+🛠️ Tech: → Astromc.pl
