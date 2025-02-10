@@ -2,7 +2,7 @@ Fquido -  INFO                                   —⠀❐⠀⤬
 
 🙋‍♂️ Hey, im Fquido
 
-👑 Owner: → FquidoDev.pl (building)
+👑 Owner: → FquidoCode.pl (building)
 
 👑 Owner: → Giercraft.pl (building)
 
